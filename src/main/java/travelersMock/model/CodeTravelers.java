@@ -1,6 +1,6 @@
 package travelersMock.model;
 
-public class Email {
+public class CodeTravelers {
     private String email = "";
     private String token = "";
 
